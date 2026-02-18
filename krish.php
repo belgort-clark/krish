@@ -1,1 +1,1 @@
-<?php echo "Burger" ?>
+<?php echo "Burgers" ?>
